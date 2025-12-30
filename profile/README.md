@@ -4,12 +4,7 @@ We are No Development, we try to code things that are useful.
 - M8 web compression (compress large web pages by about 20%) 
 - PushTools (manage repos useing git and github easily)
 - PaperCut (create solana paper wallets)
-## Want to join no development
-I am looking to expand no development, here are some things we expect:
-- You must have a knowledge of vibe-coding or just coding.
-- You must understand basic knowledge of github and basic git skills.
 
-Come join me, [here on discord](https://discord.gg/2tWVFbGmb3) !
 ## Team
 No Development is currantly managed by 1 person. [Me!](https://github.com/Maxwell317898) 
 <!--
